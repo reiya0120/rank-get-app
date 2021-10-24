@@ -1,9 +1,16 @@
 # docker-laravel 🐳
 
+<<<<<<< HEAD
 <!-- ![License](https://img.shields.io/github/license/ucan-lab/docker-laravel?color=f05340)
 ![Stars](https://img.shields.io/github/stars/ucan-lab/docker-laravel?color=f05340)
 ![Issues](https://img.shields.io/github/issues/ucan-lab/docker-laravel?color=f05340)
 ![Forks](https://img.shields.io/github/forks/ucan-lab/docker-laravel?color=f05340) -->
+=======
+![License](https://img.shields.io/github/license/ucan-lab/docker-laravel?color=f05340)
+![Stars](https://img.shields.io/github/stars/ucan-lab/docker-laravel?color=f05340)
+![Issues](https://img.shields.io/github/issues/ucan-lab/docker-laravel?color=f05340)
+![Forks](https://img.shields.io/github/forks/ucan-lab/docker-laravel?color=f05340)
+>>>>>>> origin/main
 
 ## Introduction
 
@@ -12,8 +19,13 @@ Build a simple laravel development environment with docker-compose.
 ## Usage
 
 ```bash
+<<<<<<< HEAD
 $ git clone git@github.com:reiya0120/rank-get-app/.git
 $ cd rank-get-app
+=======
+$ git clone git@github.com:ucan-lab/docker-laravel.git
+$ cd docker-laravel
+>>>>>>> origin/main
 $ make create-project # Install the latest Laravel project
 $ make install-recommend-packages # Optional
 ```
@@ -22,8 +34,13 @@ http://localhost
 
 ## Tips
 
+<<<<<<< HEAD
 <!-- - Read this [Makefile](https://github.com/ucan-lab/docker-laravel/blob/main/Makefile).
 - Read this [Wiki](https://github.com/ucan-lab/docker-laravel/wiki). -->
+=======
+- Read this [Makefile](https://github.com/ucan-lab/docker-laravel/blob/main/Makefile).
+- Read this [Wiki](https://github.com/ucan-lab/docker-laravel/wiki).
+>>>>>>> origin/main
 
 ## Container structures
 
